@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Reformed 21 TV
+# ID: UCQo_L_h_01NjLYiNHUnjEJw
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCQo_L_h_01NjLYiNHUnjEJw" tvg-logo="logos/UCQo_L_h_01NjLYiNHUnjEJw.jpg" tvg-name="Reformed 21 TV" group-title="Individual",Reformed 21 TV [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452040/ei/6Lo9ao2hOLaLr9gPx_rR6QY/ip/2a09:bac1:76a1:6298::39d:6e/id/Xni-HtTj9-w.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qlsnrr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEXPTSyy8h4TU7Y88X5rMpqLr7BbUmxez7kHTD2b3ihYYzuis33jonw4-5sdKNGs509q-umG4xkl/spc/SQ-umhqHHxUrZN5SRwzwIZtUXREQiXKwuk5f3bG6VGu9KYkRR8iYv5v_L__NWWt-/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4258750/met/1782430441,/mh/1N/mm/44/mn/sn-p5qlsnrr/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51946837,51987687/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgSk7W5R_4gxC-Ay0vUJRQM7UnXXvprWX6uccZWmOGH4ICIHW0enEnEA1lWqHmzioO-EU4WBRRXtanpcCPEjRdMzBu/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgPKIUr3FWku3ezp_i9tYBPWghg2uzENCU-86NAjC0cogCIHuSOwdiSn6NZGml0ZTltTOwWxk0WTodB2qQd9XOCSbE/playlist/index.m3u8

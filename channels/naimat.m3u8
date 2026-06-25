@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Naimat
+# ID: UCFrVnrQF6kTrkDdFZoT9CTQ
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCFrVnrQF6kTrkDdFZoT9CTQ" tvg-logo="logos/UCFrVnrQF6kTrkDdFZoT9CTQ.jpg" tvg-name="Naimat" group-title="Individual",Naimat [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452000/ei/v7o9apKBPamEy_sPhu7ksAo/ip/2a09:bac1:76a1:6298::39d:6e/id/BtMUUgApnPs.9/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qs7nsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEXv1vaq0RZ-aU3b-JThZ96vjS3EflaPTqygjP6IjRv1_L78D4jc_0Wd27ZRj0dRA-dabuWWsaSH/spc/SQ-umsG8bhU-kwa5VGsVP5DSnB6T2-qSBO_3BvkIjQ9K7Vm4bOnAB5c4RqSl_3a1/vprv/1/reg/0/playlist_type/DVR/initcwndbps/6236250/met/1782430404,/mh/Er/mm/44/mn/sn-p5qs7nsk/ms/lva/mv/m/mvi/5/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51987687/mt/1782429890/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgW7rCRlRC9jBIEIrGxeth0NgrAOx5lrVejpBxbc9Ho7wCIDKHQdwsShP-kVMa22iwkuqPdKCbebM8ZZlapCPIo0B4/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMZQ13J5RDwpNkIDfI2LtDN3edHkaI3OWCvAayIS3dfZAiEA4bz-miwlPI8ZX0LkrBYLEesuuz1clkjsZ_Dwskv_qCg%3D/playlist/index.m3u8

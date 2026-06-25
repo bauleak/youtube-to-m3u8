@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: WION
+# ID: UC_gUM8rL-Lrg6O3adPW9K1g
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UC_gUM8rL-Lrg6O3adPW9K1g" tvg-logo="logos/UC_gUM8rL-Lrg6O3adPW9K1g.jpg" tvg-name="WION" group-title="Individual",WION [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452083/ei/E7s9arT-MOWH0_wPl8-ZkQk/ip/2a09:bac1:76a1:6298::39d:6e/id/vfszY1JYbMc.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qlsndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEUzbYjK7rMme2NDuS9UgoNY7yPNX6a_bMBCTfjxaBS5mW-cjotySMaNoDJnWCTYvCIbvPsnIWx0/spc/SQ-umrQr9QrQnNM3aAD_Tp9AgK3EcdAi3rvros5QkNTCuKy9TcfF4h6PliWvjxSE/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4258750/met/1782430484,/mh/tO/mm/44/mn/sn-p5qlsndz/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51987687,52017146/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgb9SIXb1oXBZ1cK_0z8wsJJOabCwXk2OBgTFIpgl3ZmoCIQCRwjA0IQPMgXEjPNtd7RO1yb8Po0lPrvlVQcfcLz1Vjg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPRzadrmf411W0nDJ0NOoqybrcgshaynJi_CNqFzlVX-AiA1IQUBtO5_61xpKKcDfZvYYoNBjC_VvO3h-TTSgr8ZTA%3D%3D/playlist/index.m3u8

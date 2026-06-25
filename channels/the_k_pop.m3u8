@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: THE K-POP
+# ID: UCoRXPcv8XK5fAplLbk9PTww
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCoRXPcv8XK5fAplLbk9PTww" tvg-logo="logos/UCoRXPcv8XK5fAplLbk9PTww.jpg" tvg-name="THE K-POP" group-title="Individual",THE K-POP [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452129/ei/Qbs9auOnEJWAzLUPyvuMaQ/ip/2a09:bac1:76a1:6298::39d:6e/id/JVocS7Yftw8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qlsn7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEUPeojwIlEdxYjuoB766u5m5bhA_dDzM-AGji-bHR9HlG3hv_LZi_wsyWovvr27d2ORn7nT9_Vf/spc/SQ-umg3Zq4z0kbqGI2zMD2aYi-ivs7VE5EmZ16u4TRCS_PHzbAcsla1hTuK_BxnC/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4258750/met/1782430529,/mh/wS/mm/44/mn/sn-p5qlsn7s/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51987687/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAO58eFwVXZjt4egvXb46xihH_-tc31WOUX5cT-jipsvYAiEAvbqG5h7eN8iajOB9UCQkk_RmEppSSbeBE2Deh9gPt-w%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdO49i8R0uM2oGXGOMnepqu3mLw2KV9CUt-_98NbHvrwCIQD2iJdEzHyco8acvZQFyq_UDZuphI_R6hADIjDcMRVanQ%3D%3D/playlist/index.m3u8

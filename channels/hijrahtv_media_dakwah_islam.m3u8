@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: HijrahTV - Media Dakwah Islam
+# ID: UC613xD_KbfnvOXQPfrFu16g
+# Quality: 720p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UC613xD_KbfnvOXQPfrFu16g" tvg-logo="logos/UC613xD_KbfnvOXQPfrFu16g.jpg" tvg-name="HijrahTV - Media Dakwah Islam" group-title="Individual",HijrahTV - Media Dakwah Islam [720p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452022/ei/1ro9aqSnKKeAkucP35yXMA/ip/2a09:bac1:76a1:6298::39d:6e/id/aBh93JIGRKE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-p5qlsny6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWF4e5UglG94p6J5Yf0-ZB2duVf849s-lf4nsjcXfBpgKmKehaB8Mdkygho3CoayyiZoULZuQEV/spc/SQ-umm13ZkLZuMekp9CT5rGQwTVYx_YB7S3ozOqa-09DfjGbk7TbU4z3IK9JrlhmDVwOsqOV/vprv/1/reg/0/playlist_type/LIVE/initcwndbps/4258750/met/1782430422,/mh/Z-/mm/44/mn/sn-p5qlsny6/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51987687,52017147/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhANZyKUTVTvs1gvZ9VFawCVwYggCRurhMCP9fOzijeUJQAiAgwjWBdCqAsVclNiSImSFMLtOflUl_4KH58cxYaYTlhQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgSodxkpvRdoCe1vrh62kwZ4303jurdbc0CWAq722KVSYCICHaduFhLRr75hfPh8TjtSr6IvOw0wQv7-FNfQOp-OAd/playlist/index.m3u8

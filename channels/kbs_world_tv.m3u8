@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: KBS WORLD TV
+# ID: UC5BMQOsAB8hKUyHu9KI6yig
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UC5BMQOsAB8hKUyHu9KI6yig" tvg-logo="logos/UC5BMQOsAB8hKUyHu9KI6yig.jpg" tvg-name="KBS WORLD TV" group-title="Individual",KBS WORLD TV [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452071/ei/B7s9asK5JbeLkucP7PqLgQc/ip/2a09:bac1:76a1:6298::39d:6e/id/fVtnHYzS0t4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qlsnrl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVZYZCELOANclTzGaAu2Qp9QduHp8BPbHIKQbrvbljJTwIGrj8_puWg7Ii4qGKsmax9_4RmaN98/spc/SQ-umvedoru78sfXVaF6cmQKQAXJgD-WA3ZAon-B2WFIY7Xqx6no-O0q8xh5ZZG6/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4258750/met/1782430471,/mh/mI/mm/44/mn/sn-p5qlsnrl/ms/lva/mv/m/mvi/5/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987687,52017147/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIzWSVHPGRFFaKfPErKLirmOfLDnp9KXo92owVOmiv8sAiEAtoCgZ12kkE7ZYUhf-n8DOwyakgiIxWTCWD7oZ0k0ZE8%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIm_iIwe46aK0f1P70Z2tEZKIbyYk7sHKHb5yk4zWZu3AiAIeNODinHT7JsPhTILkCCqImDwIrtpT6z7BBqPycsC2A%3D%3D/playlist/index.m3u8

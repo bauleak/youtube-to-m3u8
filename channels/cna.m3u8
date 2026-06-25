@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: CNA
+# ID: UC83jt4dlz1Gjl58fzQrrKZg
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UC83jt4dlz1Gjl58fzQrrKZg" tvg-logo="logos/UC83jt4dlz1Gjl58fzQrrKZg.jpg" tvg-name="CNA" group-title="Individual",CNA [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452059/ei/-7o9apLFI-yKkucP3NDIuAU/ip/2a09:bac1:76a1:6298::39d:6e/id/XWq5kBlakcQ.9/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qlsnrl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEWcWCV3tR9ysPpCD3Af59hm9TMYT1JKMJmeFkkx1fLALx0eDuGAoyv6KHPXvqQwg8ue7ZW-v9wC/spc/SQ-umpknw6MLCayAvicvEJXSaiIs_UWmqhSV3VieDDb6zMPVgcy7jrr73LE4oW3u/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4258750/met/1782430460,/mh/W6/mm/44/mn/sn-p5qlsnrl/ms/lva/mv/m/mvi/5/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987687,52017146/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKcV5sRBVjkbpBHXfkONiFT5uxQ15KuGOHYlNO02BnJ0AiEA3xPJgvZbU_-n_9h2FgrpOpNmzLiZAy_P5ITGdKgNOFM%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAI98lW3sU8cOtCGXQvXOmDi44ZUtw36mGNQPIcTOyTgAAiBGRjP6c8iZv-Zy2rz4BbYTjCfzrkInxmGw8PfaFzQ_3A%3D%3D/playlist/index.m3u8

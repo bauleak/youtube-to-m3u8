@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: SMToon World
+# ID: UCOgmWbn6W6ahOc0QVzuJ65g
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 23:37 UTC)
+# Generated: 2026-06-25 23:37:02 UTC
+# URL expires: ~04:37 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCOgmWbn6W6ahOc0QVzuJ65g" tvg-logo="logos/UCOgmWbn6W6ahOc0QVzuJ65g.jpg" tvg-name="SMToon World" group-title="Individual",SMToon World [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782452163/ei/Y7s9avSKCOCCkucPvvm8aQ/ip/2a09:bac1:76a1:6298::39d:6e/id/dK5ZCBzUf7Y.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-p5qlsn7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEUYh3E4K4T8jr-Qg0HVa_q43B2eqEjtpPNRUSznGpG5UqH2t55FHSrC5v7awHwA29s35IKmG9qI/spc/SQ-umrJUhh8-VN5Zi6pt_TGfGstAfiMOkmTepQotlZ1qtStbem-KaKc3rJmW5M5a/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4258750/met/1782430563,/mh/EI/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/m/mvi/4/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987687/mt/1782430135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgRiiRkgAdigg4Dsw_QJtUdImQ4o6T1ErWG8P0_i60He4CID6eUgrf31mi_t8r2yZrJ0pLBBM1GLtRqNvMmH5eGmIQ/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgVbd4M_NNQDhwiI9ywzAMMK6O0wLG661Dj7B_qK7JrfwCIA2owdfFXlZJudsRMl8IAdUadWn5TKmYu4n3ocZev4XV/playlist/index.m3u8
