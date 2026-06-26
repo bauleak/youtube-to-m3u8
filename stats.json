@@ -1,21 +1,21 @@
 {
-  "total": 36,
-  "live": 36,
+  "total": 34,
+  "live": 34,
   "offline": 0,
   "error": 0,
   "qualities": {
     "1080p": 24,
-    "720p": 11,
+    "720p": 9,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 33,
+    "General": 31,
     "News": 2,
     "Entertainment": 1
   },
   "by_country": {
-    "UK": 35,
+    "UK": 33,
     "MX": 1
   },
   "individual_channels": [
@@ -57,11 +57,6 @@
     {
       "name": "NAYA ENTERTAINMENT",
       "file": "channels/naya_entertainment.m3u8",
-      "quality": "720p"
-    },
-    {
-      "name": "HijrahTV - Media Dakwah Islam",
-      "file": "channels/hijrahtv_media_dakwah_islam.m3u8",
       "quality": "720p"
     },
     {
@@ -118,11 +113,6 @@
       "name": "DW News",
       "file": "channels/dw_news.m3u8",
       "quality": "1080p"
-    },
-    {
-      "name": "Musica Studios",
-      "file": "channels/musica_studios.m3u8",
-      "quality": "720p"
     },
     {
       "name": "Musica Klasik",
