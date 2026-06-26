@@ -3,7 +3,7 @@ name: YouTube Live M3U8 Generator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * *'
+    - cron: '31 */4 * * *'
   push:
     paths:
       - 'streams.txt'
