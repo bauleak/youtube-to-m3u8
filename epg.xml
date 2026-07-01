@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260630183000 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260701090427 ">
   <channel id="UC5BMIWZe9isJXLZZWPWvBlg">
     <display-name>KOMPASTV</display-name>
     <icon src="logos/UC5BMIWZe9isJXLZZWPWvBlg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC5BMIWZe9isJXLZZWPWvBlg">
-    <title>LIVE STREAMING 24 JAM KOMPASTV 2026-06-30 18:26</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC5BMIWZe9isJXLZZWPWvBlg">
+    <title>LIVE STREAMING 24 JAM KOMPASTV 2026-07-01 09:00</title>
     <desc>Live YouTube stream from KOMPASTV</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>METRO TV</display-name>
     <icon src="logos/UCzl0OrB3-ehunyotIQvK77A.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCzl0OrB3-ehunyotIQvK77A">
-    <title>LIVE STREAMING 24 JAM METRO TV 2026-06-30 18:26</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCzl0OrB3-ehunyotIQvK77A">
+    <title>LIVE STREAMING 24 JAM METRO TV 2026-07-01 09:01</title>
     <desc>Live YouTube stream from METRO TV</desc>
     <category>Live</category>
   </programme>
@@ -22,7 +22,7 @@
     <display-name>PALTV Live Streaming</display-name>
     <icon src="logos/UCwANUmylxl3hp5VeKo--vsQ.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCwANUmylxl3hp5VeKo--vsQ">
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCwANUmylxl3hp5VeKo--vsQ">
     <title>LIVE STREAMING PALTV MEMANG PUNYO KITO</title>
     <desc>Live YouTube stream from PALTV Live Streaming</desc>
     <category>Live</category>
@@ -31,8 +31,8 @@
     <display-name>القرآن الكريم AlQuran4K</display-name>
     <icon src="logos/UCfBw_uwZb_oFLyVsjWk6owQ.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCfBw_uwZb_oFLyVsjWk6owQ">
-    <title>🔴 Makkah Live HD | Mecca Live | Makkah Live Today Now 🕋 2026-06-30 18:26</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCfBw_uwZb_oFLyVsjWk6owQ">
+    <title>🔴 Makkah Live HD | Mecca Live | Makkah Live Today Now 🕋 2026-07-01 09:01</title>
     <desc>Live YouTube stream from القرآن الكريم AlQuran4K</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Naimat</display-name>
     <icon src="logos/UCFrVnrQF6kTrkDdFZoT9CTQ.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCFrVnrQF6kTrkDdFZoT9CTQ">
-    <title>🔴 Madina Live 24/7 | بث مباشر من المدينة المنورة | قناة السنة النبوية | Madinah Live TV HD 2026-06-30 18:26</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCFrVnrQF6kTrkDdFZoT9CTQ">
+    <title>🔴 Madina Live 24/7 | بث مباشر من المدينة المنورة | قناة السنة النبوية | Madinah Live TV HD 2026-07-01 09:01</title>
     <desc>Live YouTube stream from Naimat</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>NAYA ENTERTAINMENT</display-name>
     <icon src="logos/UCIPKaBRC_GQdOuMfkLQ0Wjw.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCIPKaBRC_GQdOuMfkLQ0Wjw">
-    <title>POWERFUL RUQYAH | RUQYAH RUMAH PENGUSIR JIN, SETAN &amp; SIHIR DI RUMAH &amp; TUBUH,PENENANG HATI, ALAA AQEL 2026-06-30 18:26</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCIPKaBRC_GQdOuMfkLQ0Wjw">
+    <title>POWERFUL RUQYAH | RUQYAH RUMAH PENGUSIR JIN, SETAN &amp; SIHIR DI RUMAH &amp; TUBUH,PENENANG HATI, ALAA AQEL 2026-07-01 09:01</title>
     <desc>Live YouTube stream from NAYA ENTERTAINMENT</desc>
     <category>Live</category>
   </programme>
@@ -58,26 +58,17 @@
     <display-name>RasyaadTv Live Streaming</display-name>
     <icon src="logos/UCotIkyDFzztbSm21GNGsK9w.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCotIkyDFzztbSm21GNGsK9w">
-    <title>RASYAAD.TV 24/7 2026-06-30 18:26</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCotIkyDFzztbSm21GNGsK9w">
+    <title>RASYAAD.TV 24/7 2026-07-01 09:01</title>
     <desc>Live YouTube stream from RasyaadTv Live Streaming</desc>
-    <category>Live</category>
-  </programme>
-  <channel id="UCP7Od3VAowN6oVaCL0K3Ytg">
-    <display-name>Salira TV Official</display-name>
-    <icon src="logos/UCP7Od3VAowN6oVaCL0K3Ytg.jpg"/>
-  </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCP7Od3VAowN6oVaCL0K3Ytg">
-    <title>LIVE NOW: 24/7 Salira TV (13/06/26) 2026-06-30 18:26</title>
-    <desc>Live YouTube stream from Salira TV Official</desc>
     <category>Live</category>
   </programme>
   <channel id="UCQo_L_h_01NjLYiNHUnjEJw">
     <display-name>Reformed 21 TV</display-name>
     <icon src="logos/UCQo_L_h_01NjLYiNHUnjEJw.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCQo_L_h_01NjLYiNHUnjEJw">
-    <title>OFFICIAL Reformed 21 TV Live Stream 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCQo_L_h_01NjLYiNHUnjEJw">
+    <title>OFFICIAL Reformed 21 TV Live Stream 2026-07-01 09:01</title>
     <desc>Live YouTube stream from Reformed 21 TV</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +76,8 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="logos/UCNye-wNBqNL5ZzHSJj3l8Bg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCNye-wNBqNL5ZzHSJj3l8Bg">
-    <title>🔴 Al Jazeera English | Live 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCNye-wNBqNL5ZzHSJj3l8Bg">
+    <title>🔴 Al Jazeera English | Live 2026-07-01 09:02</title>
     <desc>Live YouTube stream from Al Jazeera English</desc>
     <category>Live</category>
   </programme>
@@ -94,8 +85,8 @@
     <display-name>Astro AWANI</display-name>
     <icon src="logos/UC5dYmq91e5_g54krpO06NJw.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC5dYmq91e5_g54krpO06NJw">
-    <title>🔴 AWANI Live 24/7 🔴 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC5dYmq91e5_g54krpO06NJw">
+    <title>🔴 AWANI Live 24/7 🔴 2026-07-01 09:02</title>
     <desc>Live YouTube stream from Astro AWANI</desc>
     <category>Live</category>
   </programme>
@@ -103,8 +94,8 @@
     <display-name>CNA</display-name>
     <icon src="logos/UC83jt4dlz1Gjl58fzQrrKZg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC83jt4dlz1Gjl58fzQrrKZg">
-    <title>[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC83jt4dlz1Gjl58fzQrrKZg">
+    <title>[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows 2026-07-01 09:02</title>
     <desc>Live YouTube stream from CNA</desc>
     <category>Live</category>
   </programme>
@@ -112,8 +103,8 @@
     <display-name>Arirang TV</display-name>
     <icon src="logos/UC-PHIZjV-oX8H7zD1cCN2NQ.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC-PHIZjV-oX8H7zD1cCN2NQ">
-    <title>Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단) 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC-PHIZjV-oX8H7zD1cCN2NQ">
+    <title>Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단) 2026-07-01 09:02</title>
     <desc>Live YouTube stream from Arirang TV</desc>
     <category>Live</category>
   </programme>
@@ -121,8 +112,8 @@
     <display-name>KBS WORLD TV</display-name>
     <icon src="logos/UC5BMQOsAB8hKUyHu9KI6yig.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC5BMQOsAB8hKUyHu9KI6yig">
-    <title>Vibing with K-POP | KBS WORLD TV 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC5BMQOsAB8hKUyHu9KI6yig">
+    <title>Vibing with K-POP | KBS WORLD TV 2026-07-01 09:02</title>
     <desc>Live YouTube stream from KBS WORLD TV</desc>
     <category>Live</category>
   </programme>
@@ -130,8 +121,8 @@
     <display-name>WION</display-name>
     <icon src="logos/UC_gUM8rL-Lrg6O3adPW9K1g.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC_gUM8rL-Lrg6O3adPW9K1g">
-    <title>WION LIVE News | World Latest English News | International News | Top English News | Live 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC_gUM8rL-Lrg6O3adPW9K1g">
+    <title>WION LIVE News | World Latest English News | International News | Top English News | Live 2026-07-01 09:02</title>
     <desc>Live YouTube stream from WION</desc>
     <category>Live</category>
   </programme>
@@ -139,8 +130,8 @@
     <display-name>FRANCE 24 English</display-name>
     <icon src="logos/UCQfwfsi5VrQ8yKZ-UWmAEFg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCQfwfsi5VrQ8yKZ-UWmAEFg">
-    <title>FRANCE 24 English – LIVE – International Breaking News &amp; Top stories - 24/7 stream 2026-06-30 18:27</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCQfwfsi5VrQ8yKZ-UWmAEFg">
+    <title>FRANCE 24 English – LIVE – International Breaking News &amp; Top stories - 24/7 stream 2026-07-01 09:02</title>
     <desc>Live YouTube stream from FRANCE 24 English</desc>
     <category>Live</category>
   </programme>
@@ -148,8 +139,8 @@
     <display-name>DW News</display-name>
     <icon src="logos/UCknLrEdhRCp1aegoMqRaCZg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCknLrEdhRCp1aegoMqRaCZg">
-    <title>DW News livestream | Headline news from around the world 2026-06-30 18:28</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCknLrEdhRCp1aegoMqRaCZg">
+    <title>DW News livestream | Headline news from around the world 2026-07-01 09:02</title>
     <desc>Live YouTube stream from DW News</desc>
     <category>Live</category>
   </programme>
@@ -157,8 +148,8 @@
     <display-name>Musica Klasik</display-name>
     <icon src="logos/UCCtMAt5md4lIrgApzrZCamg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCCtMAt5md4lIrgApzrZCamg">
-    <title>LAGU NOSTALGIA INDONESIA PALING BANYAK DICARI TERBAIK - TERPOPULER #musicaklasik #livestream 2026-06-30 18:28</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCCtMAt5md4lIrgApzrZCamg">
+    <title>LAGU NOSTALGIA INDONESIA PALING BANYAK DICARI TERBAIK - TERPOPULER #musicaklasik #livestream 2026-07-01 09:02</title>
     <desc>Live YouTube stream from Musica Klasik</desc>
     <category>Live</category>
   </programme>
@@ -166,8 +157,8 @@
     <display-name>BreakBeat</display-name>
     <icon src="logos/UCiBjOPqgx00o4SfVldEhJHQ.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCiBjOPqgx00o4SfVldEhJHQ">
-    <title>LAGU MALAYSIA LIVE MUSIC DJ BREAKBEAT TERBARU 2026 2026-06-30 18:28</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCiBjOPqgx00o4SfVldEhJHQ">
+    <title>LAGU MALAYSIA LIVE MUSIC DJ BREAKBEAT TERBARU 2026 2026-07-01 09:03</title>
     <desc>Live YouTube stream from BreakBeat</desc>
     <category>Live</category>
   </programme>
@@ -175,8 +166,8 @@
     <display-name>THE K-POP</display-name>
     <icon src="logos/UCoRXPcv8XK5fAplLbk9PTww.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCoRXPcv8XK5fAplLbk9PTww">
-    <title>🔴THE K-POP :  24/7 𝗟𝗜𝗩𝗘 (K-POP 24시간 실시간 스트리밍 채널) 2026-06-30 18:28</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCoRXPcv8XK5fAplLbk9PTww">
+    <title>🔴THE K-POP :  24/7 𝗟𝗜𝗩𝗘 (K-POP 24시간 실시간 스트리밍 채널) 2026-07-01 09:03</title>
     <desc>Live YouTube stream from THE K-POP</desc>
     <category>Live</category>
   </programme>
@@ -184,8 +175,8 @@
     <display-name>ALL THE K-POP</display-name>
     <icon src="logos/UCPde4guD9yFBRzkxk2PatoA.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCPde4guD9yFBRzkxk2PatoA">
-    <title>[🔴LIVE] K-POP 24/7 Live Stream 2026-06-30 18:28</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCPde4guD9yFBRzkxk2PatoA">
+    <title>[🔴LIVE] K-POP 24/7 Live Stream 2026-07-01 09:03</title>
     <desc>Live YouTube stream from ALL THE K-POP</desc>
     <category>Live</category>
   </programme>
@@ -193,8 +184,8 @@
     <display-name>Avatar Legends</display-name>
     <icon src="logos/UCN_u5w69V9wUZYG8WeJWuNg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCN_u5w69V9wUZYG8WeJWuNg">
-    <title>🔴 LIVE: Book Two of Avatar: The Last Airbender ⛰ | Earth, Toph, &amp; More From the Avatarverse | Avatar 2026-06-30 18:28</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCN_u5w69V9wUZYG8WeJWuNg">
+    <title>🔴 LIVE: Book Two of Avatar: The Last Airbender ⛰ | Earth, Toph, &amp; More From the Avatarverse | Avatar 2026-07-01 09:03</title>
     <desc>Live YouTube stream from Avatar Legends</desc>
     <category>Live</category>
   </programme>
@@ -202,8 +193,8 @@
     <display-name>SMToon World</display-name>
     <icon src="logos/UCOgmWbn6W6ahOc0QVzuJ65g.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCOgmWbn6W6ahOc0QVzuJ65g">
-    <title>Larva New Version 2026 / Larva Top 100 Episodes Revealed Funny Clips 2026 / SMToon World 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCOgmWbn6W6ahOc0QVzuJ65g">
+    <title>Larva New Version 2026 / Larva Top 100 Episodes Revealed Funny Clips 2026 / SMToon World 2026-07-01 09:03</title>
     <desc>Live YouTube stream from SMToon World</desc>
     <category>Live</category>
   </programme>
@@ -211,8 +202,8 @@
     <display-name>ひつじのショーン 公式チャンネル</display-name>
     <icon src="logos/UCBE5xHCtjf5zyu55hRcek6A.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCBE5xHCtjf5zyu55hRcek6A">
-    <title>ひつじのショーン 24/7 LIVE STREAM 🐑|⭐Kids Cartoons⭐️ #shaunthesheep #livestream 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCBE5xHCtjf5zyu55hRcek6A">
+    <title>ひつじのショーン 24/7 LIVE STREAM 🐑|⭐Kids Cartoons⭐️ #shaunthesheep #livestream 2026-07-01 09:03</title>
     <desc>Live YouTube stream from ひつじのショーン 公式チャンネル</desc>
     <category>Live</category>
   </programme>
@@ -220,8 +211,8 @@
     <display-name>Warner Bros Classics</display-name>
     <icon src="logos/UCU0rIMU3k_AsVA8d6N1B03w.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCU0rIMU3k_AsVA8d6N1B03w">
-    <title>🔴 LIVE: Tom and Jerry Golden Era Live Stream! | 1940's-1970's | Warner Classics 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCU0rIMU3k_AsVA8d6N1B03w">
+    <title>🔴 LIVE: Tom and Jerry Golden Era Live Stream! | 1940's-1970's | Warner Classics 2026-07-01 09:03</title>
     <desc>Live YouTube stream from Warner Bros Classics</desc>
     <category>Live</category>
   </programme>
@@ -229,8 +220,8 @@
     <display-name>One4kids</display-name>
     <icon src="logos/UC5vfWTTPnKdFp-8s0KbqJhw.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC5vfWTTPnKdFp-8s0KbqJhw">
-    <title>🔴24/7 A Day With Zaky &amp; Friends Episodes | Islamic Cartoons 🔴 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC5vfWTTPnKdFp-8s0KbqJhw">
+    <title>🔴24/7 A Day With Zaky &amp; Friends Episodes | Islamic Cartoons 🔴 2026-07-01 09:03</title>
     <desc>Live YouTube stream from One4kids</desc>
     <category>Live</category>
   </programme>
@@ -238,8 +229,8 @@
     <display-name>Lemon Films 檸檬職人探索頻道</display-name>
     <icon src="logos/UCWvPCFEqVA0XQrTkaxVNviw.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCWvPCFEqVA0XQrTkaxVNviw">
-    <title>Asian Foods 24/7 365 LIVE 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCWvPCFEqVA0XQrTkaxVNviw">
+    <title>Asian Foods 24/7 365 LIVE 2026-07-01 09:04</title>
     <desc>Live YouTube stream from Lemon Films 檸檬職人探索頻道</desc>
     <category>Live</category>
   </programme>
@@ -247,8 +238,8 @@
     <display-name>Street Food Everyday</display-name>
     <icon src="logos/UCBWAYnxyALvL8kJh87P5zRg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCBWAYnxyALvL8kJh87P5zRg">
-    <title>LIVE 🔴 Ranked #1 Sandwich in the World | Vietnam’s Legendary Banh Mi 🥖🔥 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCBWAYnxyALvL8kJh87P5zRg">
+    <title>LIVE 🔴 Ranked #1 Sandwich in the World | Vietnam’s Legendary Banh Mi 🥖🔥 2026-07-01 09:04</title>
     <desc>Live YouTube stream from Street Food Everyday</desc>
     <category>Live</category>
   </programme>
@@ -256,8 +247,8 @@
     <display-name>Japan Walk</display-name>
     <icon src="logos/UC6jFBSuK5G7PuFItq0yDMLA.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UC6jFBSuK5G7PuFItq0yDMLA">
-    <title>🔴Maid Cafe Town 24/7🐶Akihabara, Ikebukuro, Shinjuku, etc. 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UC6jFBSuK5G7PuFItq0yDMLA">
+    <title>🔴Maid Cafe Town 24/7🐶Akihabara, Ikebukuro, Shinjuku, etc. 2026-07-01 09:04</title>
     <desc>Live YouTube stream from Japan Walk</desc>
     <category>Live</category>
   </programme>
@@ -265,8 +256,8 @@
     <display-name>Love Nature</display-name>
     <icon src="logos/UCRZPkuHwaoKwTP3CYPdVldg.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCRZPkuHwaoKwTP3CYPdVldg">
-    <title>🔴 24/7 LIVE: Orangutan Jungle School | Love Nature 2026-06-30 18:29</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCRZPkuHwaoKwTP3CYPdVldg">
+    <title>🔴 24/7 LIVE: Orangutan Jungle School | Love Nature 2026-07-01 09:04</title>
     <desc>Live YouTube stream from Love Nature</desc>
     <category>Live</category>
   </programme>
@@ -274,8 +265,8 @@
     <display-name>Love Nature Predators</display-name>
     <icon src="logos/UCTzyZlFYjZCzg2ZWy91q4mw.jpg"/>
   </channel>
-  <programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="UCTzyZlFYjZCzg2ZWy91q4mw">
-    <title>🔴 24/7 LIVE: Wildlife Showdown | Love Nature: Predators 2026-06-30 18:30</title>
+  <programme start="20260701090427 +0000" stop="20260701100427 +0000" channel="UCTzyZlFYjZCzg2ZWy91q4mw">
+    <title>🔴 24/7 LIVE: Wildlife Showdown | Love Nature: Predators 2026-07-01 09:04</title>
     <desc>Live YouTube stream from Love Nature Predators</desc>
     <category>Live</category>
   </programme>

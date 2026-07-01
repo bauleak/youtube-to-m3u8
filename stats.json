@@ -1,21 +1,21 @@
 {
-  "total": 31,
-  "live": 31,
+  "total": 30,
+  "live": 30,
   "offline": 0,
   "error": 0,
   "qualities": {
     "1080p": 22,
-    "720p": 8,
+    "720p": 7,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 29,
+    "General": 28,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 30,
+    "UK": 29,
     "MX": 1
   },
   "individual_channels": [
@@ -53,11 +53,6 @@
       "name": "RasyaadTv Live Streaming",
       "file": "channels/rasyaadtv_live_streaming.m3u8",
       "quality": "1080p"
-    },
-    {
-      "name": "Salira TV Official",
-      "file": "channels/salira_tv_official.m3u8",
-      "quality": "720p"
     },
     {
       "name": "Reformed 21 TV",
