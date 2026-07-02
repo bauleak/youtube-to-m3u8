@@ -1,22 +1,21 @@
 {
-  "total": 30,
-  "live": 30,
+  "total": 29,
+  "live": 29,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 22,
+    "1080p": 21,
     "720p": 7,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 28,
+    "General": 27,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 29,
-    "MX": 1
+    "UK": 29
   },
   "individual_channels": [
     {
@@ -77,11 +76,6 @@
     {
       "name": "Arirang TV",
       "file": "channels/arirang_tv.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "KBS WORLD TV",
-      "file": "channels/kbs_world_tv.m3u8",
       "quality": "1080p"
     },
     {
