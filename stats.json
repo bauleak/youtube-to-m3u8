@@ -15,7 +15,8 @@
     "News": 1
   },
   "by_country": {
-    "UK": 29
+    "UK": 28,
+    "MX": 1
   },
   "individual_channels": [
     {
