@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260719234442 ">
-  <channel id="UC_gUM8rL-Lrg6O3adPW9K1g">
-    <display-name>WION</display-name>
-    <icon src="logos/UC_gUM8rL-Lrg6O3adPW9K1g.jpg"/>
-  </channel>
-  <programme start="20260719234442 +0000" stop="20260720004442 +0000" channel="UC_gUM8rL-Lrg6O3adPW9K1g">
-    <title>WION LIVE News | World Latest English News | International News | Top English News | Live 2026-07-19 23:42</title>
-    <desc>Live YouTube stream from WION</desc>
-    <category>Live</category>
-  </programme>
-</tv>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260720191501 "/>
