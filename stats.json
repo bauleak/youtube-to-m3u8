@@ -1,15 +1,153 @@
 {
-  "total": 0,
-  "live": 0,
+  "total": 26,
+  "live": 26,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 0,
-    "720p": 0,
+    "1080p": 18,
+    "720p": 7,
     "480p": 0,
-    "other": 0
+    "other": 1
   },
-  "by_category": {},
-  "by_country": {},
-  "individual_channels": []
+  "by_category": {
+    "General": 24,
+    "Entertainment": 1,
+    "News": 1
+  },
+  "by_country": {
+    "UK": 25,
+    "MX": 1
+  },
+  "individual_channels": [
+    {
+      "name": "KOMPASTV",
+      "file": "channels/kompastv.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "METRO TV",
+      "file": "channels/metro_tv.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "PALTV Live Streaming",
+      "file": "channels/paltv_live_streaming.m3u8",
+      "quality": "360p"
+    },
+    {
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 AlQuran4K",
+      "file": "channels/\u0627\u0644\u0642\u0631\u0622\u0646_\u0627\u0644\u0643\u0631\u064a\u0645_alquran4k.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Naimat",
+      "file": "channels/naimat.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "NAYA ENTERTAINMENT",
+      "file": "channels/naya_entertainment.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Al Jazeera English",
+      "file": "channels/al_jazeera_english.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Astro AWANI",
+      "file": "channels/astro_awani.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "CNA",
+      "file": "channels/cna.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "WION",
+      "file": "channels/wion.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "FRANCE 24 English",
+      "file": "channels/france_24_english.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "DW News",
+      "file": "channels/dw_news.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Musica Klasik",
+      "file": "channels/musica_klasik.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "BreakBeat",
+      "file": "channels/breakbeat.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "THE K-POP",
+      "file": "channels/the_k_pop.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "ALL THE K-POP",
+      "file": "channels/all_the_k_pop.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Avatar Legends",
+      "file": "channels/avatar_legends.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "SMToon World",
+      "file": "channels/smtoon_world.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "\u3072\u3064\u3058\u306e\u30b7\u30e7\u30fc\u30f3 \u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb",
+      "file": "channels/\u3072\u3064\u3058\u306e\u30b7\u30e7\u30fc\u30f3_\u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Warner Bros Classics",
+      "file": "channels/warner_bros_classics.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "One4kids",
+      "file": "channels/one4kids.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Lemon Films \u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053",
+      "file": "channels/lemon_films_\u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Street Food Everyday",
+      "file": "channels/street_food_everyday.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Japan Walk",
+      "file": "channels/japan_walk.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Love Nature",
+      "file": "channels/love_nature.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Love Nature Predators",
+      "file": "channels/love_nature_predators.m3u8",
+      "quality": "720p"
+    }
+  ]
 }
