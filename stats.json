@@ -1,21 +1,21 @@
 {
-  "total": 25,
-  "live": 25,
+  "total": 24,
+  "live": 24,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 17,
+    "1080p": 16,
     "720p": 7,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 23,
+    "General": 22,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 24,
+    "UK": 23,
     "MX": 1
   },
   "individual_channels": [
@@ -92,11 +92,6 @@
     {
       "name": "THE K-POP",
       "file": "channels/the_k_pop.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "ALL THE K-POP",
-      "file": "channels/all_the_k_pop.m3u8",
       "quality": "1080p"
     },
     {
