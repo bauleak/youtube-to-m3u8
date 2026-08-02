@@ -1,21 +1,21 @@
 {
-  "total": 24,
-  "live": 24,
+  "total": 23,
+  "live": 23,
   "offline": 0,
   "error": 0,
   "qualities": {
     "1080p": 16,
-    "720p": 7,
+    "720p": 6,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 22,
+    "General": 21,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 23,
+    "UK": 22,
     "MX": 1
   },
   "individual_channels": [
@@ -123,11 +123,6 @@
       "name": "Street Food Everyday",
       "file": "channels/street_food_everyday.m3u8",
       "quality": "1080p"
-    },
-    {
-      "name": "Japan Walk",
-      "file": "channels/japan_walk.m3u8",
-      "quality": "720p"
     },
     {
       "name": "Love Nature",
