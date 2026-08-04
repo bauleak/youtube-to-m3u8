@@ -1,21 +1,21 @@
 {
-  "total": 17,
-  "live": 17,
+  "total": 22,
+  "live": 22,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 12,
-    "720p": 4,
+    "1080p": 15,
+    "720p": 6,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 15,
+    "General": 20,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 17
+    "UK": 22
   },
   "individual_channels": [
     {
@@ -102,6 +102,31 @@
       "name": "Warner Bros Classics",
       "file": "channels/warner_bros_classics.m3u8",
       "quality": "1080p"
+    },
+    {
+      "name": "One4kids",
+      "file": "channels/one4kids.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Lemon Films \u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053",
+      "file": "channels/lemon_films_\u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Street Food Everyday",
+      "file": "channels/street_food_everyday.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Love Nature",
+      "file": "channels/love_nature.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Love Nature Predators",
+      "file": "channels/love_nature_predators.m3u8",
+      "quality": "720p"
     }
   ]
 }
