@@ -1,21 +1,21 @@
 {
-  "total": 21,
-  "live": 21,
+  "total": 20,
+  "live": 20,
   "offline": 0,
   "error": 0,
   "qualities": {
     "1080p": 14,
-    "720p": 6,
+    "720p": 5,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 19,
+    "General": 18,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 21
+    "UK": 20
   },
   "individual_channels": [
     {
@@ -72,11 +72,6 @@
       "name": "DW News",
       "file": "channels/dw_news.m3u8",
       "quality": "1080p"
-    },
-    {
-      "name": "Musica Klasik",
-      "file": "channels/musica_klasik.m3u8",
-      "quality": "720p"
     },
     {
       "name": "BreakBeat",
