@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T17:02:07.423742",
-  "count": 6,
+  "generated": "2026-08-21T20:49:57.793290",
+  "count": 20,
   "channels": [
     {
       "name": "KOMPASTV",
@@ -8,7 +8,7 @@
       "id": "UC5BMIWZe9isJXLZZWPWvBlg",
       "quality": "1080p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787353114/ei/uoOIavXpF_a-kucPm7nsIA/ip/2a09:bac1:76c1:62b0::23d:af/id/DOOrIxw5xOw.248/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-ab5l6nrr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAnlEdh7ETvDJlqtr_wMNNGauhJ-NTK7UaMfBEnqlKdZ-eyregkZGuVf794RSzpbx59tQaNrfQsd/spc/KBGBcv4uQJCMX6PCsMiwCR5gOOIOdrw5WsTp4Oky4fG0SQE7wWzYWv-oOxyJ6WMM/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3197500/met/1787331514,/mh/nm/mm/44/mn/sn-ab5l6nrr/ms/lva/mv/m/mvi/4/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135441/mt/1787331177/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAIesa2dK2kTDBeJNRBjEc_SM6NrKRSFrhytRmGWMsp3eAiBe0KyqxROz989RS7WSGuwpmgmqlPrcJZirix-vZex6UQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJYFbVc3HaxgtmmUeaJ3ZBqkeHraa9Txi2JgsJMc9u-kAiEA5DDK3wyQdmGj3cb4hC9rYGqbfmU2qKMWgFQ24BXyCuo%3D/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366772/ei/FLmIau-AMtyLkucP6vTDqQQ/ip/2a09:bac5:9f25:1678::23d:92/id/DOOrIxw5xOw.248/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr10---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkO2wUnzOuifpiBSgy8bvG9CKZVfTyJyafeEthj2TqQYeJ93xSWYvTryrWH4zB89LeFfPHYmDKD/spc/KBGBcvtPxMXimXWIRXlz5kDaKqXeXGVnpy59zP3xch0wLEUufqoHDPpm-VDcz5qN/vprv/1/reg/0/playlist_type/DVR/initcwndbps/19660000/met/1787345173,/mh/nm/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/10/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135440/mt/1787344842/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAN3DMGBmYLNrWNfBATtzDDMrRjoxhEPxoFxtBc6JBWM5AiBXg6kuuSxV8mhzEJ8cr2gswfLv6dRcBt6X1INWhOyY5w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgf1B52twvMHLLOvxpzh2jF5FTZ53VoRaP7I5gOOO4yIACIHwJdxoBhdjyuitIZvBzq_4jDx-ZolHnkfuvVncE67C8/playlist/index.m3u8",
       "country": "UK"
     },
     {
@@ -17,7 +17,7 @@
       "id": "UCwANUmylxl3hp5VeKo--vsQ",
       "quality": "360p",
       "status": "live",
-      "url": "https://rr2---sn-ajab55-5i.googlevideo.com/videoplayback?expire=1787353126&ei=xYOIarbRObW9kucPxo3EqQM&ip=2a09%3Abac1%3A76c1%3A62b0%3A%3A23d%3Aaf&id=o-AG7uuxPigj4mKEZACVRN1WSmi_0AYUrCN3vuK_Z8VcqS&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1787331525%2C&mh=IA&mm=31%2C29&mn=sn-ajab55-5i%2Csn-2onx5c-5b&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3197500&bui=AR3QkAnJJLHnswkrMwlyAH6lQnWftibyc4PReNnjzhWjHGE-13DGZawe9Wt39BCuOc-qP3FmZswKruQx&spc=KBGBchVMkD7_rFvf7xTRwWxJJBXR6aKWAcWkLTN2ndE4So566wLT8bCL-AzHeYGpFJs&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=2548074694&ratebypass=yes&dur=42898.587&lmt=1782437911272375&mt=1787331216&fvip=1&fexp=51565115&c=ANDROID&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgASYvxe9_tLsXz5_KGnUpr93qmq_FkwvII0Brh_bjqBYCIH56hl7ZwWXHmtxJlzXRabYdOMOcO8AbcCVx23UzPLnh&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgSfkTCMilWwipp0DsLuZCsZdzXYpuba567-Nk705lE6cCIBdH0XpmZv_MnZ_EQOPLcen4fjnobiHhmh28hM_GFvgV",
+      "url": "https://rr3---sn-2o5ua5-5m.googlevideo.com/videoplayback?expire=1787366786&ei=IrmIatfHLIC-kucPgdzMwQ4&ip=2a09%3Abac5%3A9f25%3A1678%3A%3A23d%3A92&id=o-ADz74GzO-9BMeI2gVwGtAXTOAsae-1Bzf8waLUL6Qlb0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1787345186%2C&mh=IA&mm=31%2C29&mn=sn-2o5ua5-5m%2Csn-aj5ua5-59&ms=au%2Crdu&mv=m&mvi=3&pl=43&rms=au%2Cau&initcwndbps=15826250&bui=AR3QkAnrfV6Liz35p7dsugyLn2QqQoBA4wTgiX35S0Bii8GFm3ndtTzmxjrY6Q77jIrAV578Rh5NJGvM&spc=KBGBcniXvVOJlEYWguUjjBk4RAeZSYqFihsaxdZSZjXDnNzZW4sUwbmgkhaNU8F5ugU&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=2548074694&ratebypass=yes&dur=42898.587&lmt=1782437911272375&mt=1787344662&fvip=4&fexp=51565116&c=ANDROID&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgVrYzhiYb-5qR1-uqOTFABBcxSUSHretUhsZyhYyc5SgCIBxavuSAV-b0B7KHuO1_1gvsxaUvdOEBbBV-0EkOzqwY&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIga0HOx1kRr-zsyx-VQou1tlCGMe8fb4kPNRSkWQseJ0YCIQDzOoo6n8mMNbsxsXwifL1BXWnM8RupNeHrU5UAiK-ljw%3D%3D",
       "country": "UK"
     },
     {
@@ -26,7 +26,7 @@
       "id": "UCfBw_uwZb_oFLyVsjWk6owQ",
       "quality": "1080p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787353130/ei/yoOIapLnLoK3kucPhrvNoAQ/ip/2a09:bac1:76c1:62b0::23d:af/id/m9-Umj3aL1I.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr46---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAl4GZzeGdBZVNwEvBJlNu6q1oNCzNZ4TCGK2tX_X-BLb-XPZGVE5_AN-elKsa8H2TQfSxJlIvrq/spc/KBGBcolfAqu2g-RZmZG0y8Q2xGq8HG2uQeoxw4pwtXte2H_1H1ImIiOaEHuAmJuj/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2546250/met/1787331531,/mh/4m/mm/44/mn/sn-4o/ms/lva/mv/m/mvi/46/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787331415/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhANDposQhwVDWjmrdePebp7vFXgm7lGOmhndL22PFyWN9AiEApUguP1VkkTPqIQKN2a5Q6xISGl9HwRkRC_jCDMFZh_Y%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKoomdRai7vksrQ1V2Ni-NYZPx2ejSGua_2QeF2wAswYAiBthl8hLeYhC-vW0ns3PzPD4K1Aia6s5cjiw74U8hdAhw%3D%3D/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366792/ei/KLmIaoWOOfqDkucPqPPn2Q4/ip/2a09:bac5:9f25:1678::23d:92/id/m9-Umj3aL1I.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr11---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAlUsBEyinWROxrOu37vdRHJ4dgmz_VElnP18V2MpyYl2S4z_D2FG38tduCcOeSS9W20OUol6px0/spc/KBGBck5IOETZHmOlCio4TfNw9PtqHx59p3GY1FuNk0VSlVLf2zeb61KE7uoUjx9A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345193,/mh/4m/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/11/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAJBAIOrjLQVqNrb8FgZGh3HHHCWr9PK6mr9qbcBUdCk0AiEAosTxWorKZragOFbxssNKDyJ2pnlhQwQ0bq3mMtU0nYU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgHKkeivt8LXe5Gj_ij6i_B4b-QGqzyxXh1CtWt_TsHVkCIEdEI-4Uom8WGgxmhq9ndeSN5Leo-jfKzrJHa4bJfTXV/playlist/index.m3u8",
       "country": "UK"
     },
     {
@@ -35,7 +35,7 @@
       "id": "UCFrVnrQF6kTrkDdFZoT9CTQ",
       "quality": "1080p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787353139/ei/04OIau-LJbK1kucP5OzDuQ4/ip/2a09:bac1:76c1:62b0::23d:af/id/BtMUUgApnPs.11/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-ajab55-5i.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkzuMbYaToEek0wSS7Jxfnbxfphll9nehBftItHS-7lyESdhBm1cfLi7x8twMgFbwGYEartiepl/spc/KBGBcpWTe1oXptju0Xr8nXibZFZ5JQcDTq_1ppyeljJvY_fEzJRxRZrTpFiZdCzG/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3197500/met/1787331539,/mh/Er/mm/44/mn/sn-ajab55-5i/ms/lva/mv/m/mvi/3/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787331177/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAOIWx1kggTyVUOSM5y0x5lUdaM0Vd8su2e92xri1ceWlAiEApZRsjG5F1QBKL4lDhgBoVCoviH8FzsfVDdMecLedwzQ%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMtoBX8Wv1TVSjts5E5iu8zs0DJasW3ukr8WqmNVyEWLAiEAlIIgsJl9vjHZ6E4zVpvhL2vojYRHs8EZDRN_SUg5PDE%3D/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366800/ei/MLmIapWgE7u0kucP7LG-wQg/ip/2a09:bac5:9f25:1678::23d:92/id/BtMUUgApnPs.11/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAnUDwvjeLEISwg6c9gRjnssD0mwGtlLp5GbkqbzIt71r0e3JLCVLefV0xK3NIEnLOTOK5VLJH3k/spc/KBGBcj5C_Nx6s9oYxVDvw8p8_ameJs40SXUSx9oQyvvAIaq82gleyT6wCXIRb7U9/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345200,/mh/Er/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/9/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgYchXXrILVx8AajVfQIa7DWL2FA80GZBBmOGX-_o3ZBMCIDxAEtpX-gLStuUVxpdGgj44CPVruGFFXsUZoaWh6LLN/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgN0XCHtUeR6iyeJF2-jinN5toOY9Pxo8Llo9dBmVQpToCIQDNfU9m_Ss35MLDi-AwNpknfvr576j2wjIQ1o4iaRwwpw%3D%3D/playlist/index.m3u8",
       "country": "UK"
     },
     {
@@ -44,7 +44,7 @@
       "id": "UCIPKaBRC_GQdOuMfkLQ0Wjw",
       "quality": "720p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787353151/ei/34OIarXXDsmRr9gPj8jU0Qg/ip/2a09:bac1:76c1:62b0::23d:af/id/9riG54_FtF8.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-ab5sznz6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAmAYV91ZtPSMdtkHizgoPezO4Xde67sHLnOikKRdCsM61xB9eBUrg7BeUdMzPwSZdPOpCn4pYp3/spc/KBGBcm6rkA2niYMxmZwQ09JviF2Pzw1W7oSU5iU1_IkLhUez2UTn3NLH9f_u6mrO/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3197500/met/1787331551,/mh/3C/mm/44/mn/sn-ab5sznz6/ms/lva/mv/m/mvi/4/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787331177/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAOx7EyggrbGF6qrrS2GdNlNWX22FS3elO2XTKzLzgOJHAiEAor7G88oAzf8CvqdVa2TeKFU3_6alCe-A4QPtyJGDNYM%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIiNNYgT1wLZpKyV6GhkI_XGtmkQGbiFJIizRUWfqoXEAiBxF0nc2BkggzY2eR1LBXF19H6hfGrFPWcmFkPs3njUPA%3D%3D/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366813/ei/PbmIaruyM5-0kucP_NnWmA4/ip/2a09:bac5:9f25:1678::23d:92/id/9riG54_FtF8.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr15---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAlqAIZnYPpeAhWgJKLIVDox3a9rWAMNKw-ObBmWA6jZRSBTRgR7FdCyA-33n0uXE9ZAUpnc_UrO/spc/KBGBcog41L59usWm4RkFLCSlX1MYK4KCvE3BssIKQjfj3xrLBvhEAsNq7-wtB6Gw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345214,/mh/3C/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/15/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgBvOxmw8PHHZwac__X_EP54E-4W3PdzQBrt6-W_fSJowCIQDfxs4AFGGcgyAjOzCfrxhFJgSzLqbos2mzhu803VjMqg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgFclnUk2m7Q8zW3n9xgppMVDzXYr156l62Q2GwmijH7UCIGGKBXV1yuMiJAR2oIsWlevt4nhtvI6dY15nbR1aZ0KX/playlist/index.m3u8",
       "country": "UK"
     },
     {
@@ -53,7 +53,133 @@
       "id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
       "quality": "1080p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787353180/ei/_IOIauyVN-qGr9gPiLqasQc/ip/2a09:bac1:76c1:62b0::23d:af/id/gCNeDWCI0vo.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-ab5sznz6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/bui/AR3QkAk5VS1ymNvUz5cSnL5egt4qLdZymnzUpjC9lPxg4pbn47EtlsqAGf4n9TDGAkDqrGNQ9a9IeBFJ/spc/KBGBcudOHQHgKEd2CmUhhipWlqDxpNbdEo6CDYBQr29iIiT540bsJpOR-GdjAtRl/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3625000/met/1787331581,/mh/Dn/mm/44/mn/sn-ab5sznz6/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787331177/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgbSs5_ywIwm_FkpVjnga9kWzszuFB8QMk-a99AEksfPECIBKZSI7DLFAFB1sS5m7_9pwMRS9ezjI3Rj9ihgM3WjYL/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAN5VEyFK-0xX7A3rTOHP9BMneKGLbY059gDedOp5kdcFAiAOOHpZRCqAVYpx3Bejd8lT65hALeRBV8YDLZSvR9RHvA%3D%3D/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366837/ei/VbmIat6HB4SBkucPocbgsAQ/ip/2a09:bac5:9f25:1678::23d:92/id/gCNeDWCI0vo.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr12---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/bui/AR3QkAlwCCltCadcmDvwQqZZwoWbyz7IGbPkI3S0zc1kj7X37aUmYubglM4skCiBgL3WViyT9jEE8R_J/spc/KBGBclBUzqLsoGqJHBYVisopB8QAobpjB1FJceaPmdPXk1Asp9CqP3fKxw0yl6zZ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345237,/mh/Dn/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/12/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhANZwIFt7rcWl4sRlfZIM7AlzTN4Fr4NB7Otq3qtppgDbAiEA991v0lhTTjDVQePO7WShX8AUWGkFhcpZ0RCuPAfTC1o%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgTvmLihko0J22UcZinPaMapMXw-_KellJktOUQC3wt_oCICCapT8ZNN-A6gaYYFb7HuteomSQTUTjvuSI5yeI6K_z/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "Astro AWANI",
+      "file": "channels/astro_awani.m3u8",
+      "id": "UC5dYmq91e5_g54krpO06NJw",
+      "quality": "720p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366842/ei/WrmIap67B4uAkucPidjswAM/ip/2a09:bac5:9f25:1678::23d:92/id/mkVyNaGee8A.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr7---sn-aj5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAluqjkVXhFUCnr77DnpoysX_VQHCls62Qe0yP5jjNgAdiaBe_rHwV94Yg72OqA8NSPHWc4EXJxh/spc/KBGBcv_0KZ3PKrq1lwgFHp4qgUTpZTEPaSRNPhhvNtUdgTPsX2y_r07O1rLGkh5v/vprv/1/reg/0/playlist_type/DVR/initcwndbps/50458750/met/1787345242,/mh/Yt/mm/44/mn/sn-aj5ua5-5x/ms/lva/mv/m/mvi/7/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135440/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgainbyqMCQutOqiNDvdxz1-nExp_BicQh2uE0HnPN_iMCIHtnoApJngQz4r6MN4sakkEQaxDGkS9zRu1jNGE13-hJ/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgTG8mIxX3Q23hJFYICj6uhffyoAzcaCG_lo2xO3N960oCIEM8xw-1uB4i0MT5NyqIIU1DTXgup8LCZJn6y5ZRgOoy/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "CNA",
+      "file": "channels/cna.m3u8",
+      "id": "UC83jt4dlz1Gjl58fzQrrKZg",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366847/ei/X7mIauuRJavZkucP9dqAoQg/ip/2a09:bac5:9f25:1678::23d:92/id/XWq5kBlakcQ.9/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAlrYXzNuusSIm-1ZgGAVm4LW2lfEIaUgKLgzV9aaY5uAaYyeee-LgznjbPepmqycEuelgAkHLBN/spc/KBGBcj04A9VlfsWvVpGrx-LHwum0m5uYCrnVqJ0GRNxflXhzH7x4Ip8Ey5_vbhae/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345247,/mh/W6/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/2/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135440/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAN3ZK-qkW787VuDolnDr_itmAJonOJ9O_K3SsUW53340AiEAx8IhNofoPDXGRTUCC7EzhQ5e8nHegHjZprQ0qJJ3Otw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKyDutAnRn7FVc1XbMmxJEcIpuc22C07OReCKKGBrW-dAiEAz-GSXJZzttq2qrawiZsF2sQl84t83qcdHM0Q-wJTonk%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "WION",
+      "file": "channels/wion.m3u8",
+      "id": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366873/ei/ebmIapnVD968kucPn53C-AY/ip/2a09:bac5:9f25:1678::23d:92/id/vfszY1JYbMc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr17---sn-aj5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAlk3t59YWyDj01KyCcjgMisOw9bbYCCc6nRazqMzmciowRmZIrqF1-p1bMCkmHXB-DM3NFKqToA/spc/KBGBckq5fxNN75Z05Tzsoqs4WCAre2DqRZCiIBQlyQDZQPIpoKlOjE0CpkPuh3fk/vprv/1/reg/0/playlist_type/DVR/initcwndbps/50458750/met/1787345273,/mh/tO/mm/44/mn/sn-aj5ua5-5x/ms/lva/mv/m/mvi/17/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787345070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAPF4kV1N-4_NcC3JD2H7Jc-1SfVXa2dYVLOCssaC1D9UAiBY8dpEh6EsRJFEvgZ97HBlkcqZoiicYUBYUq5neWUj1w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgZ2qx5mYHnkFSLSdPgR4uLzVtRKNZmKTu8PuZrKhRRSYCIDE7NYV4xlaogxuSIo0as9Mui-OyDZC2akjH4uKSU8RX/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "FRANCE 24 English",
+      "file": "channels/france_24_english.m3u8",
+      "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366878/ei/frmIauzGDfyQr9gPz7HbwQQ/ip/2a09:bac5:9f25:1678::23d:92/id/HvZt-nh9sGg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr10---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAkoTAoPZRwIii6N_EMCmYkZabHOKMK6oIQ0Vabm0bQmyMs-zfoQ_NZy8tjq7A088aCaDB7tqr__/spc/KBGBciSV8vdtCkkPt9KDl4OFuvZ1Xnk9ky68UkFuEsJj1ip-6YE08KusiyaELCff/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345278,/mh/Gh/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/10/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgLVZI0rpPOdFXX0gbYBmhWs4IuZFlLfGufiSn8HQ7Av4CIQCUyzBJZlP6ULja5-QWZpXWihq0bZtlZ4nBKcRb3JjJcw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgXr_UVDcJ3RLBpvKfTJs-0pWwfw1CZw_LppVAnk3Bgo0CIQCmQgyWrzcYDGTE8Rq84beoptTv7SJD1mdTGfryCg_1xA%3D%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "DW News",
+      "file": "channels/dw_news.m3u8",
+      "id": "UCknLrEdhRCp1aegoMqRaCZg",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366885/ei/hbmIas2_JoWLkucP1rzZoQg/ip/2a09:bac5:9f25:1678::23d:92/id/LuKwFajn37U.494/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr11---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkgb4uUkGlI9tElyl1k3m6YRjkglQOV20hJ5Dsi8R6xJlG2VM6G3szXZ7SSMbjCj42QaU3qWz22/spc/KBGBcv7yGXpvrhQIMWSu-QFHZGGQupnKkGCAt3clUoKat9yyN1B4uOBtbBQN4ePd/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345285,/mh/sz/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/11/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135440/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgIx5_xAjXrkKJX131VykIgwM20vrY19gwjPVM4Jl669ACIQD8c0HXIUSI-8gfkzoCpU0imDQM7fMoljf4W-NMyka7Lw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMjudbJWXzc9ApzVG67QnC_uBU1TYnSt1qvbpVFHXvzhAiEA6OvaWezuXHW7gkvZKlXyOVgEKJk_cFspNMypds_QLwg%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "BreakBeat",
+      "file": "channels/breakbeat.m3u8",
+      "id": "UCiBjOPqgx00o4SfVldEhJHQ",
+      "quality": "720p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366908/ei/nLmIaomrFdTYkucPtNOYsAs/ip/2a09:bac5:9f25:1678::23d:92/id/58tvRl9DP0k.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr14---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkDSS8M0igf8QoICu4-lc5k48DsGfVcTy9xTxF3YAScx_qqqkG7JLSSVBR9ggVUrK2uccITi8hi/spc/KBGBck0GsTKXiZnFG5sca8Hh6m0MXQijMyMUCHrcBGrsRqdg3HlTa8wqkKB-lR4L/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345308,/mh/So/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/14/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135441/mt/1787345070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJ16N4QryuZ5LUCewV6QSHVWWIbuRpbIUsvtDK8fhSeQCIAGxWS8al44emJs7sFwD0YUZUlsNEpZoYKlAiv6wHCGC/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIiD3CgmxBgLQi6Jt1yvttdF6XNTr-WgburDQxD4Gw81AiAuFdFEMeb7-tV3Et7S_lHtPdk-EZYFQERcNBGIPipX_Q%3D%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "THE K-POP",
+      "file": "channels/the_k_pop.m3u8",
+      "id": "UCoRXPcv8XK5fAplLbk9PTww",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366914/ei/ormIaoDbGMuWr9gPzuG3-A8/ip/2a09:bac5:9f25:1678::23d:92/id/JVocS7Yftw8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAnAXaAx9tXTVrFADEdgbDz67LZ2nSYAecseq2nwrX2GeoBrpZe2UGKYxMIm2SbjJedYycqTnp00/spc/KBGBcmIUw82hFbyeWgjfN_wHZn9qD00_zyfRgzSbcUvjT2TJqWZ_kQ4W2V9_Jl5s/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345314,/mh/wS/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/9/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135440/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAILPJ5caH1ALDIgBmTYWbdFclAm2l0ltiXTi3YCkT0-zAiEA8hF9nynahfHzYgBh8B67prv-zTmMnXcOjeD0Po53tO0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgVIA_r7WOtbXA_gEOhyiayArCmWjvl3CLf6sDJwWrNm0CIQCoah5porQVaA3zkJMou2fuKosrA53juuEJovtqDbYKUg%3D%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "SMToon World",
+      "file": "channels/smtoon_world.m3u8",
+      "id": "UCOgmWbn6W6ahOc0QVzuJ65g",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366939/ei/u7mIaqi-A5fgkucPsPHjoAQ/ip/2a09:bac5:9f25:1678::23d:92/id/dK5ZCBzUf7Y.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr12---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAlLb93df3RAiyDRHB0pwijlBmJIlMOJzIUV_sSQbygwQYtlP4-NIVY19NK1JTXLugvp8jEgYTSS/spc/KBGBcuGcLyQW0h5l3dfG4nWaQciA08-8O9AL6IFkoEyi-D6D_fRef7PUQiTSCwqn/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345339,/mh/EI/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/12/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgaWfROYNmy9JesfztoehaJ9I5JFTInt3ZGNBieofQ2UECIAdpr1_2aYWEQs55_gPAuIt8xmlMbIZwE-bY2RWu6JM3/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgda5STM3BKg6C7WwipQbKL40qofx1z4Mb8L3Icg0EhMwCIDYi0_hdFGXIWKyDL8q545xdS0CJBghfQi4HeSUo3TnH/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "Warner Bros Classics",
+      "file": "channels/warner_bros_classics.m3u8",
+      "id": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366952/ei/yLmIaqb0BrO1kucP9aGI6Q8/ip/2a09:bac5:9f25:1678::23d:92/id/400k2SKoeh4.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAnjFdmOmID3GKOCka8lZ-lLZw4rtIk_Nbr0QBl1-wLq0FTgjhunSydKk78FITFRw40H_bDnPRbU/spc/KBGBch984SM7oaUh3HukQOIvSZuhOEKhqo7ZQBRM07jI6scPAosHGrYScRoT7i3U/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345352,/mh/Ss/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/2/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52135441/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhANPII3_tIaTqFAAxRuexHTxChETwCqBfSV2l5c68zJxrAiEA9yMMqauhAQ9AfGzHXYNEGNkcfx76QKSbAFfCvlDobWg%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgDt4QdnUrOhGUYJ3p7Uk_hwCvUtGB7BH1QJYZk0myGwUCIGjYKeHerkF_6B20brFi2cXyT9olj-qYS4fl_irDbU6F/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "One4kids",
+      "file": "channels/one4kids.m3u8",
+      "id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366964/ei/1LmIaujzB6_YkucPn4n9kA8/ip/2a09:bac5:9f25:1678::23d:92/id/bpvNfqWTXhw.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-aj5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAmeInIQA1ZATKlMOe2h8DH17o7-JT97xA1D88bH9DOEtss_IkAfjHuFt6AlGu6ZxckxgO6N-_OA/spc/KBGBckzkKvzV4f7-EWcTJdenuw40tJCWlgykKTxny6Z-bChAv_6DHtoke46bXQlt/vprv/1/reg/0/playlist_type/DVR/initcwndbps/50458750/met/1787345364,/mh/nY/mm/44/mn/sn-aj5ua5-5x/ms/lva/mv/m/mvi/6/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787345070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAP0HiTmtMu045tOTY1_BOWVjDSnN2PemeAtxwHY0dTt_AiEAy4j9hg3w3xXK-laCQfIMoR8BcV8GeKsITDqk6jSCbnA%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMvoRZmOyCnVVH5yDt2YbxmC2hN7N5mb7A-GfMnynCv8AiEAmc_VRV7LO3sr2YEhloEX2kpa9G08RQy2k5NSwFLhRw8%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "Lemon Films \u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053",
+      "file": "channels/lemon_films_\u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053.m3u8",
+      "id": "UCWvPCFEqVA0XQrTkaxVNviw",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366971/ei/27mIaqCfLoi2kucPsJnAMA/ip/2a09:bac5:9f25:1678::23d:92/id/FmNEEe7pSOE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAm-9toLz1KqkPrKO5E-348ekm6lTjw4GirHWuWf_TGT2okegwuHEwhJ6NgW8qou3zXAgGHXA_K0/spc/KBGBcnB3LqZS8rX0GHZuTCgf8cuWNixUXDnlvmlQCXVCOdtGh3T5LQ5EXBKKTj3t/vprv/1/reg/0/playlist_type/DVR/initcwndbps/37342500/met/1787345372,/mh/8t/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/1/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgT0UdaZoLi44JQvuUzvfge0UhUgCD8Uqf52U7cStxeqsCIQDbJ_69S5-hyvemwV8QI0--oMsJd_r09wPbLtNF0DMPyQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAN5Hti_1Dm96SHy1lr2fsHvq7rgW0kR-B6fptUjMY73yAiEAg7cWJjRilGkiLUXmSUyeAoYSGmnezE8tCCqBqMRvdGU%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "Street Food Everyday",
+      "file": "channels/street_food_everyday.m3u8",
+      "id": "UCBWAYnxyALvL8kJh87P5zRg",
+      "quality": "1080p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366978/ei/4rmIap3fH6yHr9gP45CuuA4/ip/2a09:bac5:9f25:1678::23d:92/id/ENgGISokMS0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr10---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkjTW-GWmycgf1x_eyB-3c95EXo-GXoAuSwiCtPryFhA6WI4B-myUbLi9IUj_2-kyH8A2P9pnlP/spc/KBGBcncZeHExoKAqqDRL_UOcLxE533QgCDQHKoAo4GaGeVUhaePxdSqmv2m_LeCn/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345378,/mh/LR/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/10/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787345070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAP9fK5GLVeaCQeenVvvztG29kgZeADH4X5VPSpa7ymklAiEA3UdvLhu_fMgxdta_2TN_-iJeQ9KXi1O5D7GciDXfYXg%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgc5Zzhxzu7mZlCrRjE-IjO2omF56qs20XKwOkEBbEIEwCIBLhF-MciAm7B7jEPzjCVSpitdh8F8WTDj1B6yjovAns/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "Love Nature",
+      "file": "channels/love_nature.m3u8",
+      "id": "UCRZPkuHwaoKwTP3CYPdVldg",
+      "quality": "720p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366991/ei/77mIaqypFbaRr9gP9quasQY/ip/2a09:bac5:9f25:1678::23d:92/id/QhahoVG0BfI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr10---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/ss/1/ssa/1/bui/AR3QkAkDfHkQmmgzgQUC_hoy_LB1K0T_acooYlc3UcMRTvSH1gJdjh6VfVITMqxT31t5NrBck8iGNzsl/spc/KBGBcukSqmr5VUblK0KE3vOgf-tU3Yl5T6sGFbbZVVBdV0qWRjN8oi-HNJVCBZFa/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345391,/mh/Sc/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/10/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1787344831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgQjlmlLG4JEZimzqzlcTfq8Jnn1LVXl8IQNpAPsEDg1QCIHUMXWLzN6rgLr4SkzXmMKKXW-jIN1HzSiIBsSy4mnAz/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgMB2JF8wClsR8YRUVTVCPQRqi1Q9EoqTjf1kkrGq8XUECIQDFEYZIWPpLpxbsGEdRktZ2wvWzqW1SRI_MdNM7kpKjeg%3D%3D/playlist/index.m3u8",
+      "country": "UK"
+    },
+    {
+      "name": "Love Nature Predators",
+      "file": "channels/love_nature_predators.m3u8",
+      "id": "UCTzyZlFYjZCzg2ZWy91q4mw",
+      "quality": "720p",
+      "status": "live",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787366997/ei/9bmIauLaHd-9kucPq7zsuAw/ip/2a09:bac5:9f25:1678::23d:92/id/7ByKk5NPsRw.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr13---sn-2o5ua5-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/ss/1/ssa/1/bui/AR3QkAlP7ijsAwiEe3V8oBcvwc0-vtWu4aTXJce7f2rGCrT7zlyPR0rhfFzd-vVf1_SO9bFiJn0MtbXV/spc/KBGBcnR9HBMErRULFa2a40wW6Or0Ij5UvMgkNh-VbFGTeYJKnnsmiuZblGjoo-Fj/vprv/1/reg/0/playlist_type/DVR/initcwndbps/15826250/met/1787345397,/mh/aO/mm/44/mn/sn-2o5ua5-5x/ms/lva/mv/m/mvi/13/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787345070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgLLwU1J1rPZGxTAaiS5CQYVXxaIMGN6oLAW8UWFdq-QQCIQDmNXQ8SDdPhvyus-RJ4hMzLFcV2HeLThzDhJ8MTYRkrA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgSDmMMZ-EcJDdnHhCh0OcRJ2HgXQJOh_1aHtpu9rFtMYCIQCSPeJ3YyfvjAaf3Zds1bJPfmlTMORiXmotAt5R3IgNKg%3D%3D/playlist/index.m3u8",
       "country": "UK"
     }
   ]

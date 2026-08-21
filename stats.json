@@ -1,20 +1,21 @@
 {
-  "total": 6,
-  "live": 6,
+  "total": 20,
+  "live": 20,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 4,
-    "720p": 1,
+    "1080p": 14,
+    "720p": 5,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 5,
-    "Entertainment": 1
+    "General": 18,
+    "Entertainment": 1,
+    "News": 1
   },
   "by_country": {
-    "UK": 6
+    "UK": 20
   },
   "individual_channels": [
     {
@@ -46,6 +47,76 @@
       "name": "Al Jazeera English",
       "file": "channels/al_jazeera_english.m3u8",
       "quality": "1080p"
+    },
+    {
+      "name": "Astro AWANI",
+      "file": "channels/astro_awani.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "CNA",
+      "file": "channels/cna.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "WION",
+      "file": "channels/wion.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "FRANCE 24 English",
+      "file": "channels/france_24_english.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "DW News",
+      "file": "channels/dw_news.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "BreakBeat",
+      "file": "channels/breakbeat.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "THE K-POP",
+      "file": "channels/the_k_pop.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "SMToon World",
+      "file": "channels/smtoon_world.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Warner Bros Classics",
+      "file": "channels/warner_bros_classics.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "One4kids",
+      "file": "channels/one4kids.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Lemon Films \u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053",
+      "file": "channels/lemon_films_\u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Street Food Everyday",
+      "file": "channels/street_food_everyday.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Love Nature",
+      "file": "channels/love_nature.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Love Nature Predators",
+      "file": "channels/love_nature_predators.m3u8",
+      "quality": "720p"
     }
   ]
 }
