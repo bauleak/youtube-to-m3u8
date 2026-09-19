@@ -1,24 +1,81 @@
 {
-  "total": 8,
-  "live": 8,
+  "total": 19,
+  "live": 19,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 6,
-    "720p": 2,
+    "1080p": 13,
+    "720p": 5,
     "480p": 0,
-    "other": 0
+    "other": 1
   },
   "by_category": {
-    "General": 8
+    "General": 17,
+    "Entertainment": 1,
+    "News": 1
   },
   "by_country": {
-    "UK": 8
+    "UK": 19
   },
   "individual_channels": [
     {
+      "name": "KOMPASTV",
+      "file": "channels/kompastv.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "PALTV Live Streaming",
+      "file": "channels/paltv_live_streaming.m3u8",
+      "quality": "360p"
+    },
+    {
+      "name": "Naimat",
+      "file": "channels/naimat.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "NAYA ENTERTAINMENT",
+      "file": "channels/naya_entertainment.m3u8",
+      "quality": "720p"
+    },
+    {
       "name": "Al Jazeera English",
       "file": "channels/al_jazeera_english.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Astro AWANI",
+      "file": "channels/astro_awani.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "CNA",
+      "file": "channels/cna.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "WION",
+      "file": "channels/wion.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "FRANCE 24 English",
+      "file": "channels/france_24_english.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "DW News",
+      "file": "channels/dw_news.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "BreakBeat",
+      "file": "channels/breakbeat.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "THE K-POP",
+      "file": "channels/the_k_pop.m3u8",
       "quality": "1080p"
     },
     {
