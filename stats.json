@@ -1,21 +1,21 @@
 {
-  "total": 18,
-  "live": 18,
+  "total": 17,
+  "live": 17,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 12,
+    "1080p": 11,
     "720p": 5,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 16,
+    "General": 15,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 18
+    "UK": 17
   },
   "individual_channels": [
     {
@@ -56,11 +56,6 @@
     {
       "name": "WION",
       "file": "channels/wion.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "FRANCE 24 English",
-      "file": "channels/france_24_english.m3u8",
       "quality": "1080p"
     },
     {
