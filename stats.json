@@ -1,21 +1,21 @@
 {
-  "total": 14,
-  "live": 14,
+  "total": 17,
+  "live": 17,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 10,
-    "720p": 3,
+    "1080p": 11,
+    "720p": 5,
     "480p": 0,
     "other": 1
   },
   "by_category": {
-    "General": 12,
+    "General": 15,
     "Entertainment": 1,
     "News": 1
   },
   "by_country": {
-    "UK": 14
+    "UK": 17
   },
   "individual_channels": [
     {
@@ -87,6 +87,21 @@
       "name": "Lemon Films \u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053",
       "file": "channels/lemon_films_\u6ab8\u6aac\u8077\u4eba\u63a2\u7d22\u983b\u9053.m3u8",
       "quality": "1080p"
+    },
+    {
+      "name": "Street Food Everyday",
+      "file": "channels/street_food_everyday.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Love Nature",
+      "file": "channels/love_nature.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Love Nature Predators",
+      "file": "channels/love_nature_predators.m3u8",
+      "quality": "720p"
     }
   ]
 }
